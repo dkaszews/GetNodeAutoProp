@@ -1,6 +1,8 @@
 # GetNodeAutoProp
 Incremental C# source code generator for Godot's GetNode fields, inspired by [Godot Proposal #2425](https://github.com/godotengine/godot-proposals/issues/2425).
 
+This repo has been archived as of 2026-05-10 due to me having lost interest in C# and all things Microsoft in general.
+
 ## Quick start
 ```cs
 using GetNodeAutoProp;
